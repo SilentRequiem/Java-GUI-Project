@@ -1,6 +1,6 @@
 # Java GUI Project
  
-Things Learned:
+Things Learned
          JFrame is the main window that holds everything
          ImageIcon is used to load images, which can be set as icons for the window
          setSize() sets the dimensions of the window
