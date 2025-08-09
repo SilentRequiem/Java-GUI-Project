@@ -1,10 +1,10 @@
-# Java GUI Project 💻
+# Java GUI Project 
 
 This repository contains a simple Java GUI project created to practice and demonstrate fundamental concepts of building graphical user interfaces.
 
 ---
 
-## 🚀 Key Learnings
+## Key Learnings
 
 Throughout this project, I gained hands-on experience with several key components and concepts in Java's Swing library for creating desktop applications.
 
